@@ -1,5 +1,7 @@
 #This is the 3rd capstone project of the HyperionDev SE course, T32#
 
+#NB: inventory.txt is a required file and must be in the same folder as this file when run
+
 #========Class definitions==========
 class Shoe:
 
